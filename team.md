@@ -8,6 +8,7 @@ My name is Kane and I like cars and video games.
 * Computer Science Major and Mathematics Minor
 
 # Ian Tuohy
+My name is Ian and I like snowboarding and food.
 
 # Nick Wiltshire
 - Surfer with no waves.
@@ -15,6 +16,7 @@ My name is Kane and I like cars and video games.
 - Music enjoyer.
 
 # Ethan Ikhifa
+I am Ethan and I like cats.
 
 # Brandon Udall
 - Travel enjoyer
