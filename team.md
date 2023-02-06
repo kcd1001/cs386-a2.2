@@ -12,3 +12,6 @@
 # Ethan Ikhifa
 
 # Brandon Udall
+- Travel enjoyer
+- music enjoyer
+- enjoyer of the finer things of life
