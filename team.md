@@ -3,6 +3,9 @@
 My name is Kane and I like cars and video games.
 
 # Ryley Fernandez
+* sophomore
+* 19 years old
+* Computer Science Major and Mathematics Minor
 
 # Ian Tuohy
 
