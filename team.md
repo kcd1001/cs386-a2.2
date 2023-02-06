@@ -6,7 +6,8 @@
 
 # Nick Wiltshire
 - Surfer with no waves.
-- NAU student
+- NAU student.
+- Music enjoyer.
 
 # Ethan Ikhifa
 
