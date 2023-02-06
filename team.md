@@ -19,6 +19,5 @@ My name is Ian and I like snowboarding and food.
 I am Ethan and I like cats.
 
 # Brandon Udall
-- Travel enjoyer
-- music enjoyer
+- enjoyer of travel
 - enjoyer of the finer things of life
