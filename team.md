@@ -5,7 +5,8 @@
 # Ian Tuohy
 
 # Nick Wiltshire
-Surfer with no waves.
+- Surfer with no waves.
+- NAU student
 
 # Ethan Ikhifa
 
